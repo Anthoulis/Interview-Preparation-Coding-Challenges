@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\dev\\Interview-Preparation-Coding-Challenges\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Interview-Preparation-Coding-Challenges\\Week 1 ( C\u002B\u002B)\\Plus Minus\\Plus Minus\\plusminus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week 1 ( C\u002B\u002B)\\Plus Minus\\Plus Minus\\plusminus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "plusminus.cpp",
-              "DocumentMoniker": "C:\\dev\\Interview-Preparation-Coding-Challenges\\Week 1 ( C\u002B\u002B)\\Plus Minus\\Plus Minus\\plusminus.cpp",
-              "RelativeDocumentMoniker": "Week 1 ( C\u002B\u002B)\\Plus Minus\\Plus Minus\\plusminus.cpp",
-              "ToolTip": "C:\\dev\\Interview-Preparation-Coding-Challenges\\Week 1 ( C\u002B\u002B)\\Plus Minus\\Plus Minus\\plusminus.cpp",
-              "RelativeToolTip": "Week 1 ( C\u002B\u002B)\\Plus Minus\\Plus Minus\\plusminus.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-30T13:39:30.25Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
