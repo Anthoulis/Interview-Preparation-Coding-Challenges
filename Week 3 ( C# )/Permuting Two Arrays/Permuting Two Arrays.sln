@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permuting Two Arrays", "Permuting Two Arrays\Permuting Two Arrays.csproj", "{B2374C13-E78F-4EE3-BDAC-803D39D63F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2374C13-E78F-4EE3-BDAC-803D39D63F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2374C13-E78F-4EE3-BDAC-803D39D63F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2374C13-E78F-4EE3-BDAC-803D39D63F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2374C13-E78F-4EE3-BDAC-803D39D63F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441CDF41-DD6D-4CAB-8236-FD9ADDE7C626}
+	EndGlobalSection
+EndGlobal
