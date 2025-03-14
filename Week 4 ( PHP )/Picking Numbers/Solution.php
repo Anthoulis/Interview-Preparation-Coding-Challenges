@@ -32,11 +32,11 @@ function pickingNumbers($a) {
     return $maxLength;
 }
 
-// 🔹 Read input from keyboard (VS Code-friendly)
+// Read input from keyboard (VS Code-friendly)
 $n = intval(trim(fgets(STDIN)));  // Read an integer (number of elements)
 $a = array_map('intval', explode(' ', trim(fgets(STDIN))));  // Read space-separated integers
 
-// 🔹 Call function and print result
+// Call function and print result
 $result = pickingNumbers($a);
 echo $result . "\n";  // Print the result directly instead of writing to a file
 
